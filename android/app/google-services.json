@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008225588063",
+    "firebase_url": "https://parchem-sgaragedb.firebaseio.com",
+    "project_id": "parchem-sgaragedb",
+    "storage_bucket": "parchem-sgaragedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008225588063:android:218aa55a246f6b4d78dcea",
+        "android_client_info": {
+          "package_name": "com.otp.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008225588063-h9c94cbg30rii92fi4e3qgdnplgje2v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otp.android.app",
+            "certificate_hash": "68ce5b9184e1cefc67a7e328c1005e500730a0b8"
+          }
+        },
+        {
+          "client_id": "1008225588063-e32gptl5n5kftb3qfc379s1d20tgc7tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfHJg4DvdhGjUnoO4rDSpreQPZ1gJlaqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008225588063-e32gptl5n5kftb3qfc379s1d20tgc7tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
